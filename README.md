@@ -1,10 +1,10 @@
-###Ananya Basireddy-142
-###Sivani Varada-160
+### Ananya Basireddy-160121737142
+### Sivani Varada-160121737160
 ### Details of folder is as follows -
-- Digital signature Verification.ipynb file contains model
+- Digital_signature_Verification.ipynb file contains model
 - Forged Images contain dataset for this project in form of real 
 - Real Images contain dataset for this project in form of real 
-- "training folder" will save the trained images(this folder will create when you will execute the code)
+- "training folder" will save the trained images(this folder will be created when we will execute the code)
 
 ### Some Important points
 - Images are stored in the format : XXXZZZ_YYY
@@ -15,6 +15,6 @@
 
 
 ### Note
-- Digital signature Verification.ipynb file for Jupiter notebook
+- Digital_signature_Verification.ipynb file for Jupiter notebook
 - In the training folder, files are for refernce and in the testing folder , files are for testing.
 - This project is for Mini project 2
