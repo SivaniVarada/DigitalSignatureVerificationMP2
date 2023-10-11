@@ -18,3 +18,7 @@
 - Digital_signature_Verification.ipynb file for Jupiter notebook
 - In the training folder, files are for refernce and in the testing folder , files are for testing.
 - This project is for Mini project 2
+![image](https://github.com/SivaniVarada/DigitalSignatureVerificationMP2/assets/111381685/bb649dc6-02b7-438b-bc01-e4da6eccaa64)
+![image](https://github.com/SivaniVarada/DigitalSignatureVerificationMP2/assets/111381685/fc36d191-443c-43b3-ad20-0aaa699b4cae)
+![image](https://github.com/SivaniVarada/DigitalSignatureVerificationMP2/assets/111381685/1e818cf2-7a44-46ff-82b7-89cb9cce006e)
+![image](https://github.com/SivaniVarada/DigitalSignatureVerificationMP2/assets/111381685/3a66cecc-366c-4dca-bb55-6501e3732e24)
